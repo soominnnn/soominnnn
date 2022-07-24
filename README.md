@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soominnnn
-- 👀 I’m interested in ROS, Android Studio
-- 🌱 I’m currently learning ROS1
+- 👀 I’m interested in ReactJS
+- 🌱 I’m currently learning ReactJS
 
 
 <!---
