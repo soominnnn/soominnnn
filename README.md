@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soominnnn
-- 👀 I’m interested in ReactJS
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in VanillaJS
+- 🌱 I’m currently learning VanillaJS
 
 
 <!---
