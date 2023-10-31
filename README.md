@@ -1,4 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=400&section=header&text=I'm%20soominnnn🐾&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=400&section=header&text=Welcome%20to%20Soominnnn's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+<div align="left">
+ 
+ ---
+     
+[![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiholee0&count_bg=%23F29494&title_bg=%232F2E2E&icon=github.svg&icon_color=%23FFFFFF&title=GITHUB&edge_flat=false)](https://github.com/jiholee0)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=soominnnn&hide=contribs,prs)
+[![soominnnn's GitHub stats](https://github-readme-stats.vercel.app/api?username=soominnnn&theme=nord&hide_border=true&count_private=true)](https://github.com/soominnnn/github-readme-stats)
+ 
+
+<br>
+</div>
 
