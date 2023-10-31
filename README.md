@@ -9,6 +9,9 @@
 
 ---
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soominnnn&layout=compact"><br><br>
+
+---
 
 </div>
 
