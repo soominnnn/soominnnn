@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20soominnnn's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=65&height=300) 
+ ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20soominnnn's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=65&height=300) 
 <div align="left">
  
  ---
@@ -12,7 +12,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soominnnn&layout=compact"><br><br>
 
----
+--- 
 
 </div>
 
